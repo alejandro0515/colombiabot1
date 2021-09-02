@@ -615,7 +615,7 @@ samu330.on('chat-update', async(sam) => {
                 message: {
                 "imageMessage": {
                 "mimetype": "image/jpeg",
-                "caption": `🥀NʮɑƞBσt | 🐉Sɱ330\n${command} ${q}`,
+                "caption":`🇨🇴𝑪⃯𝒐⃢⃯𝒍⃯𝒐⃯𝒎⃯𝑏⃯𝑖⃯𝑎⃯𝑛⃯𝑩⃯𝑶⃯𝑻⃟🇨🇴 | 🐉⃯҉ӂᎪ⃯Ꮮ⃯Ꭼ⃯Ꭻ⃯Ꮕ₀ࠫ₁ࠫ₅ࠫӂ҉\n${command} ${q}`,
                 'jpegThumbnail': fs.readFileSync('./src/fake.jpg')}}
 		}
        		})
@@ -700,7 +700,7 @@ key:
 { fromMe: false,
 participant: `0@s.whatsapp.net`, ...(from ?
 { remoteJid: "status@broadcast" } : {}) },
-message: { "imageMessage": { "mimetype": "image/jpeg","caption": `🥀Sαм y Perry`, 'jpegThumbnail': fs.readFileSync('./src/help.jpg')}}
+message: { "imageMessage": { "mimetype": "image/jpeg","caption": `⃯҉ӂᎪ⃯Ꮮ⃯Ꭼ⃯Ꭻ⃯Ꮕ₀ࠫ₁ࠫ₅ࠫӂ҉`, 'jpegThumbnail': fs.readFileSync('./src/help.jpg')}}
 }
 contextInfo: {
 mentionedJid: [sender]}
@@ -709,7 +709,7 @@ key:
 { fromMe: false,
 participant: `0@s.whatsapp.net`, ...(from ?
 { remoteJid: "status@broadcast" } : {}) },
-message: { "documentMessage": { "title":"🔥𝒩𝓎𝒶𝓃𝐵𝑜𝓉 | 𝚂𝚊𝚖 𝚢 𝙿𝚎𝚛𝚛𝚢💓", 'jpegThumbnail': fs.readFileSync('./src/fake.jpg')}}
+message: { "documentMessage": { "title":"🔥�⃯҉ӂᎪ⃯Ꮮ⃯Ꭼ⃯Ꭻ⃯Ꮕ₀ࠫ₁ࠫ₅ࠫӂ҉ | 𝚂𝚊𝚖 𝚢 𝙿𝚎𝚛𝚛𝚢💓", 'jpegThumbnail': fs.readFileSync('./src/fake.jpg')}}
 }
 contextInfo: {
 mentionedJid: [sender]}
@@ -718,7 +718,7 @@ key:
 { fromMe: false,
 participant: `0@s.whatsapp.net`, ...(from ?
 { remoteJid: "status@broadcast" } : {}) },
-message: { "locationMessage": { "caption":"🥀𝓝𝔂𝓪𝓷𝓑𝓸💞", 'jpegThumbnail': fs.readFileSync('./src/samyperry.png')}}
+message: { "locationMessage": { "caption":"�⃯҉ӂᎪ⃯Ꮮ⃯Ꭼ⃯Ꭻ⃯Ꮕ₀ࠫ₁ࠫ₅ࠫӂ҉", 'jpegThumbnail': fs.readFileSync('./src/samyperry.png')}}
 }
 contextInfo: {
 mentionedJid: [sender]}
@@ -1150,14 +1150,14 @@ function _0xd037(_0x1fea26,_0x25290c){const _0x49fad6=_0x33d3();return _0xd037=f
 			switch (commandstik) {
 	
 				case "paxuDk3LoZENYGIbqq0jI7+xHaEaDfGaWGtVJt/Vyzg=":
-					redes = ['*Sigeme y te sigo en instagram!* https://www.instagram.com/samu330wabot', '*😊Seamos amigos en facebook!!* https://www.facebook.com/samu330wabot']
+					redes = ['*Sigeme y te sigo en instagram!* https://www.instagram.com/alejandro.urzola.961', '*😊Seamos amigos en facebook!!* https://www.facebook.com/alejandro.urzola.961']
 					opcion = redes[Math.floor(Math.random() * redes.length)]
 reply(`*Si no ves la lista de comandos, o no puedes hacer click en el boton, desactiva la funcion de hacer el texto seleccionable en las configuraciones de tu whatsapp Mod.*
 _Si siges teniendo problemas, usa el menu antiguo, escribiendo: ${prefix}menuofc_`)
 let newmenu = samu330.prepareMessageFromContent(from, {
 "listMessage":  {
-"title": "*✍🏻MENU | 🌬anBot | ⃯҉ӂᎪ⃯Ꮮ⃯Ꭼ⃯Ꭻ⃯Ꮕ₀ࠫ₁ࠫ₅ࠫӂ҉*",
-"description": `\n➫ြ𝚜ᷤ𝚊ͣ𝚖ͫ𝚞𝉄𖾔𖾔𖽙😈.li Oℱịcιɑl.li
+"title": "*✍🏻MENU | �⃯҉ӂᎪ⃯Ꮮ⃯Ꭼ⃯Ꭻ⃯Ꮕ₀ࠫ₁ࠫ₅ࠫӂ҉ | ⃯҉ӂᎪ⃯Ꮮ⃯Ꭼ⃯Ꭻ⃯Ꮕ₀ࠫ₁ࠫ₅ࠫӂ҉*",
+"description": `\n➫ ⃯҉ӂᎪ⃯Ꮮ⃯Ꭼ⃯Ꭻ⃯Ꮕ₀ࠫ₁ࠫ₅ࠫӂ҉😈.li Oℱịcιɑl.li
 🔐Hola *${pushname}* ${timeFt}
 _Tipo de usuario:_ ${tipoDeUsr}
 ┎┈┈┈┈┈┈┈┈┈┈┈┈┈┈
@@ -1875,8 +1875,8 @@ ${bodyM} ${prefix}audios *(Audios)*
      -----------------------------------------------
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::                                                
 ¦:
-¦:         . : 🐬𝐍𝐲𝐚𝐧𝐁𝐨𝐭🐬 : .
-¦:     🔥❣️𝗦𝗮𝗺 𝘆 𝗣𝗲𝗿𝗿𝘆❣️🔥
+¦:         . : �🇨🇴𝑪⃯𝒐⃢⃯𝒍⃯𝒐⃯𝒎⃯𝑏⃯𝑖⃯𝑎⃯𝑛⃯𝑩⃯𝑶⃯𝑻⃟🇨🇴 : .
+¦:     🔥❣⃯҉ӂᎪ⃯Ꮮ⃯Ꭼ⃯Ꭻ⃯Ꮕ₀ࠫ₁ࠫ₅ࠫӂ҉🔥 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 *̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳
 		     🌸 SamịPerry.li 🌸
