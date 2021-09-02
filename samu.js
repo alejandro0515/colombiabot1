@@ -1,10 +1,10 @@
-//============ NyanBot ============\\
+//============ ColombianBot ============\\
 // + Favor de mantener este codigo
 //   tal y como esta.
 // + Si modificaras, manten los
 //   creditos:
 //   _MankBarBar & Samu & LolHuman_
-//============ Samu330 ============\\
+//============ Alejo ============\\
 const { 
   WAConnection,
   MessageType,
@@ -1156,7 +1156,7 @@ reply(`*Si no ves la lista de comandos, o no puedes hacer click en el boton, des
 _Si siges teniendo problemas, usa el menu antiguo, escribiendo: ${prefix}menuofc_`)
 let newmenu = samu330.prepareMessageFromContent(from, {
 "listMessage":  {
-"title": "*✍🏻MENU | 🌬NyanBot | SAMU330🪀*",
+"title": "*✍🏻MENU | 🌬anBot | ⃯҉ӂᎪ⃯Ꮮ⃯Ꭼ⃯Ꭻ⃯Ꮕ₀ࠫ₁ࠫ₅ࠫӂ҉*",
 "description": `\n➫ြ𝚜ᷤ𝚊ͣ𝚖ͫ𝚞𝉄𖾔𖾔𖽙😈.li Oℱịcιɑl.li
 🔐Hola *${pushname}* ${timeFt}
 _Tipo de usuario:_ ${tipoDeUsr}
